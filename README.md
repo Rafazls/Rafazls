@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafazls&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafazls&layout=compact)](https://github.com/Rafazls/github-readme-stats)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
