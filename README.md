@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafazls&layout=compact)](https://github.com/Rafazls/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafazls&hide=contribs,prs)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafazls&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
