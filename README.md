@@ -13,8 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafazls&show_icons=true&locale=en&layout=compact" alt="rafazls" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafazls&show_icons=true&locale=en" alt="rafazls" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafazls&" alt="rafazls" /></p>
 
 <picture>
