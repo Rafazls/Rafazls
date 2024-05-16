@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Rafael+Bezerra;Tenho+19+anos;Sou+Junior+Full+Stack+Developer;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoAndrade16&show_icons=true&count_private=true&hide_border=true&title_color=1B98E0&icon_color=1B98E0&text_color=f9f2e7&bg_color=0d1117" alt="Iago Andrade github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAndrade16&layout=compact&hide_border=true&title_color=f9f2e7&text_color=f9f2e7&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafazls&show_icons=true&count_private=true&hide_border=true&title_color=1B98E0&icon_color=1B98E0&text_color=f9f2e7&bg_color=0d1117" alt="Rafael Bezerra github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafazls&layout=compact&hide_border=true&title_color=f9f2e7&text_color=f9f2e7&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IagoAndrade16&bg_color=0d1117&color=F5F5F5&line=F5F5F5&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafazls&bg_color=0d1117&color=F5F5F5&line=F5F5F5&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IagoAndrade16&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafazls&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
@@ -27,9 +27,9 @@
   ##
   
   <div style="display: flex" align="center"> 
-  <a href="https://instagram.com/andrade_iago16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:iagoaap16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/iago-alexandre-5208821aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/raffsz.__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "rafaelsouza2017a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafa-bezerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
