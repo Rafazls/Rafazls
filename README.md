@@ -16,7 +16,7 @@ My name is Rafael Bezerra, a graduate student at FIAP in systems development.
 
 🎞️ I am also interested in video games and cinematography
 
-If you like what I do, maybe consider buying me a coffee/tea 👉👈
+If you like what I do, maybe consider buying me a coffee/tea !!
 
 <a href="https://buymeacoffee.com/rafazls" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
